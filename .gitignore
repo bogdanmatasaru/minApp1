@@ -1,0 +1,23 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Package managers
+package-lock.json
+yarn.lock
+
+# Logs
+*.log
+start-runner.log
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Electrode Native
+.ern/
+

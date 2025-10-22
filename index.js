@@ -123,3 +123,5 @@ const styles = StyleSheet.create({
 AppRegistry.registerComponent('AnimatedSplashApp', () => AnimatedSplashApp);
 export default AnimatedSplashApp;
 
+
+

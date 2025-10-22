@@ -2,14 +2,16 @@
   "name": "animated-splash-miniapp",
   "version": "1.0.0",
   "description": "Animated splash screen with Lottie and gradients",
-  "keywords": ["ern-miniapp"],
+  "keywords": [
+    "ern-miniapp"
+  ],
   "ern": {
     "version": "^0.53.0"
   },
   "dependencies": {
-    "react": "18.2.0",
-    "react-native": "0.72.17",
-    "lottie-react-native": "^6.4.1",
+    "lottie-react-native": "^7.3.4",
+    "react": "^19.2.0",
+    "react-native": "^0.82.1",
     "react-native-linear-gradient": "^2.8.3"
   }
 }
